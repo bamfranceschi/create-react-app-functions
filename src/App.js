@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Anna's ZEIT Test site ✨</h1>
+      <h1>Anna's ZEIT Test site ✨🔥😍</h1>
       <h2>
         Deployed with{" "}
         <a
